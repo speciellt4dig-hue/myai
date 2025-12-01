@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS Web Assistant",
+  "description": "A voice-activated AI assistant powered by Gemini Live API. Capable of opening websites, telling time, and conversational assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
